@@ -186,4 +186,4 @@ local function initKeySystem()
     return ui
 end
 -- Start the key system
-initKeySystem()
+initKeySystem(pleasespeed)
